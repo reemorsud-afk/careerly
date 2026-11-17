@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="none"/>
+  
+        <path d="M105 75 C105 42 148 18 200 18 C252 18 295 42 295 75 L305 160 C305 160 300 330 300 345 C300 362 282 372 260 372 L140 372 C118 372 100 362 100 345 C100 330 95 160 95 160 Z" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+        <path d="M96 160 C96 160 60 260 90 360" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+        <path d="M304 160 C304 160 345 240 318 355" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+        <path d="M108 78 C140 60 260 60 292 78" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+        
+  
+<!-- face -->
+<ellipse cx="200" cy="215" rx="72" ry="92" fill="#fdf7f2" stroke="#1a1a1a" stroke-width="3"/>
+<!-- eyebrows -->
+<path d="M155 185 C165 178 180 178 190 184" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<path d="M210 184 C220 178 235 178 245 185" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<!-- eyes -->
+<path d="M163 198 C170 193 182 193 189 198" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M211 198 C218 193 230 193 237 198" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
+<!-- nose -->
+<path d="M198 205 C196 220 193 232 188 240 C193 244 203 244 206 240" fill="none" stroke="#1a1a1a" stroke-width="2.2" stroke-linecap="round"/>
+<!-- lips (accent) -->
+<path d="M178 258 C188 252 212 252 222 258 C212 268 188 268 178 258 Z" fill="#e07a3f" stroke="#1a1a1a" stroke-width="1.5"/>
+<!-- cheek blush -->
+<ellipse cx="168" cy="232" rx="12" ry="7" fill="#e07a3f" opacity="0.28"/>
+<ellipse cx="232" cy="232" rx="12" ry="7" fill="#e07a3f" opacity="0.28"/>
+
+</svg>
